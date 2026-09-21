@@ -4,14 +4,14 @@ A studio website inspired by the *structure and design principles* of strong ind
 
 ## Included
 
-- `index.html` — full-screen art-led home page
-- `projects.html` — project portfolio
-- `team.html` — team grid and culture section
-- `about.html` — studio story and behind-the-scenes gallery
-- `contact.html` — contact routing and front-end form UI
-- `styles.css` — full responsive design system
-- `script.js` — navigation, subtle reveal animation, form demo message
-- `assets/art/` — put studio-created artwork here
+- `index.html` - full-screen art-led home page
+- `projects.html` - project portfolio
+- `team.html` - team grid and culture section
+- `about.html` - studio story and behind-the-scenes gallery
+- `contact.html` - contact routing and front-end form UI
+- `styles.css` - full responsive design system
+- `script.js` - navigation, subtle reveal animation, form demo message
+- `assets/art/` - put studio-created artwork here
 
 ## Color palette
 
