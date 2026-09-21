@@ -1,5 +1,3 @@
-PUT HUMAN-MADE STUDIO ART HERE.
-
 Suggested files:
 - home-hero.webp (wide key art / screenshot)
 - project-01.webp
@@ -10,5 +8,3 @@ Suggested files:
 - gallery-02.webp
 - gallery-03.webp
 - team-first-last.webp
-
-No AI-generated artwork is required or included in this starter.
