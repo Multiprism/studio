@@ -1,4 +1,4 @@
-# Video game studio website starter
+# Video game studio website
 
 A studio website inspired by the *structure and design principles* of strong independent game-studio sites: artwork-forward pages, concise studio copy, visible team members, clear projects, and a modern but playful visual system.
 
