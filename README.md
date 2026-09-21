@@ -13,10 +13,6 @@ A static, responsive studio website inspired by the *structure and design princi
 - `script.js` — navigation, subtle reveal animation, form demo message
 - `assets/art/` — put studio-created artwork here
 
-## Important: no AI artwork
-
-This project intentionally contains **no generated or stock artwork**. All large visual areas are placeholders. Replace them with art made by the studio: screenshots, key art, concept art, renders, animation stills, office photos, event photos, and team portraits.
-
 ## Color palette
 
 The CSS variables are at the top of `styles.css`. The blue, cyan, pink, and yellow values are sampled directly from `logo.png`. Yellow appears in the supplied logo; the surrounding design uses blue and pink. Headers and footers display the original logo image.
@@ -52,7 +48,7 @@ Recommended formats: AVIF or WebP for images, MP4/WebM for short muted hero reel
 
 ## Content pass before launch
 
-Replace all bracketed content prompts with studio-approved text, names, project facts, location, contact details, and links. Unconfigured external links are displayed as non-clickable placeholders. Connect the contact form to a real backend. Add favicon/OG images and metadata. Test keyboard navigation, image alt text, mobile crops, performance, and reduced-motion behavior.
+Replace all bracketed content with text, names, project facts, location, contact details, and links. Unconfigured external links are displayed as non-clickable placeholders. Connect the contact form to a real backend. Add favicon/OG images and metadata. Test keyboard navigation, image alt text, mobile crops, performance, and reduced-motion behavior.
 
 ## Local preview
 
